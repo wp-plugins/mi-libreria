@@ -1,0 +1,56 @@
+/* 
+	Mi librería
+	Penguin Random House Grupo Editorial
+	Programming by Yes We Work (yeswework.com / andrew@yeswework.com)
+	Version 1.1
+	Date 16/04/2015
+
+	prh-ml-front.css
+	---------------------
+	CSS for the front end
+*/
+
+.prh_ml_heading {
+	margin-bottom: 0.5em;
+	padding-top: 0.5em;
+	border-top: 1px solid #eee;
+}
+.prh_ml_shelf {
+	overflow: hidden;
+	height: 200px;
+	margin-bottom: 15px;
+}
+.prh_ml_shelf .prh_ml_book {
+	float: left;
+	width: 72px;
+	height: 200px;
+	margin-right: 10px;
+}
+.prh_ml_shelf .prh_ml_book a {
+	text-decoration: none !important;
+	display: block;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+.prh_ml_shelf .prh_ml_book .prh_ml_book_container {
+	height: 125px;
+	width: 72px;
+	position: relative;
+}
+.prh_ml_shelf .prh_ml_book .prh_ml_cover {
+	position: absolute;
+	bottom: 0;
+	margin: 0;
+	padding: 0;
+}
+.prh_ml_shelf .prh_ml_book .prh_ml_title {
+	font-size: 10px;
+	padding-top: 5px;
+	line-height: 12px;
+	text-align: center;
+}
+.prh_ml_plugin_link {
+	font-size: 0.75em;
+	opacity: 0.8;
+}

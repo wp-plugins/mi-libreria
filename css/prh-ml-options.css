@@ -1,0 +1,21 @@
+/* 
+	Mi librería
+	Penguin Random House Grupo Editorial
+	Programming by Yes We Work (yeswework.com / andrew@yeswework.com)
+	Version 1.0
+	Date 30/03/2015
+	
+	prh-ml-options.css
+	---------------------
+	CSS for the options screen
+*/
+
+.settings_page_prh_ml .form-table {
+	margin-top: 3em;
+}
+.settings_page_prh_ml .form-table th {
+	width: 30%;
+}
+.settings_page_prh_ml .form-table td {
+	width: 70%;
+}

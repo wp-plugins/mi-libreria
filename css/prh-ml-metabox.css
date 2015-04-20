@@ -1,0 +1,97 @@
+/* 
+	Mi librería
+	Penguin Random House Grupo Editorial
+	Programming by Yes We Work (yeswework.com / andrew@yeswework.com)
+	Version 1.0
+	Date 30/03/2015
+
+	prh-ml-metabox.css
+	---------------------
+	CSS for the admin metabox
+*/
+
+.prh_ml_settings>h4 {
+	margin-bottom: 10px !important;
+	font-size: 1.0625em;
+}
+.prh_ml_settings>div {
+	overflow: auto;
+	margin-bottom: 20px;
+}
+.prh_ml_spinner {
+	background: url(../img/spinner.gif) no-repeat;
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 3px;
+	margin-right: 5px;
+}
+.prh_ml_status {
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 5px;
+	margin-right: 5px;
+	font-weight: bold;
+}
+.prh_ml_success {
+	color: #090;
+}
+.prh_ml_failure {
+	color: #900;
+}
+.prh_ml_form_main {
+	width: calc(100% - 200px);
+	float: left;
+}
+.prh_ml_form_button {
+	width: 200px;
+	float: right;
+	text-align: right;
+	margin-top: 1px;
+}
+.prh_ml_display label {
+	margin-right: 10px;
+}
+.prh_ml_keywords input[type=text] {
+	width: calc(20% - 2px);
+	font-size: 12px;
+	padding: 5px;
+}
+.prh_ml_selection .grid {
+	overflow: auto;
+	margin: 10px auto 20px auto;
+	max-width: 558px;
+	background: #ddd;
+	padding-left: 1px;
+	padding-top: 1px;
+}
+.prh_ml_selection .book {
+	width: 72px;
+	float: left;
+	position: relative;
+	margin-right: 1px;
+	margin-bottom: 1px;
+	background: #eee;
+	padding: 10px;
+	height: 198px;
+	overflow: hidden;
+	cursor: pointer;
+	text-align: center;
+}
+.prh_ml_selection .book img {
+	display: inline-block;
+	margin-top: 5px;
+	margin-bottom: 2px;
+	max-width: 75px;
+}
+.prh_ml_selection .book .title {
+	font-size: 10px;
+	margin-top: 0;
+	line-height: 1.2;
+}
+.prh_ml_selection .book .select {
+	position: absolute;
+	top: 10px;
+	left: 39px;
+}
