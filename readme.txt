@@ -8,8 +8,6 @@ License URI: https://www.gnu.org/copyleft/gpl.html
 
 == Description ==
 
-(NB. This plugin is intended for Spanish-language blogs and websites, because the books it recommends come from the Spanish-language catalogue of Penguin Random House Grupo Editorial.)
-
 Mi librería te permite añadir automáticamente a los artículos de tu blog o página web una selección de los mejores libros sobre el tema de tu artículo y otros similares y aportar así más contenidos y utilidad a tus lectores. Una vez activado y configurado, tus usuarios verán un pequeño estante de libros recomendados justo después del contenido de cada artículo.
 
 El plugin te ofrece una lista de categorías generales para mejorar la relevancia de las sugerencias, y una lista de tiendas internacionales y nacionales para enlazarlas. Si estás dado de alta en el programa de afiliados de la tienda elegida, el plugin te permite especificar tu código personal.
