@@ -2,7 +2,7 @@
 Contributors: Yes We Work
 Requires at least: 4.0
 Tags: libro, libros, biblioteca, librería, lector, lectores, español
-Tested up to: 4.1.1
+Tested up to: 4.2.1
 License: GPLv3
 License URI: https://www.gnu.org/copyleft/gpl.html
 
