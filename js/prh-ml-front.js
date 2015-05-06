@@ -15,7 +15,7 @@ jQuery(document).ready(function($){
 	if($('.prh_ml_container').length) {
 		
 		// add some more basic furniture into the shell
-		$('.prh_ml_container').append('<div class="prh_ml_heading"><strong>Buenos libros sobre este y otros temas</strong></div><div class="prh_ml_shelf"/>');
+		$('.prh_ml_container').append('<div class="prh_ml_heading"><strong>Libros recomendados/strong></div><div class="prh_ml_shelf"/>');
 
 		// get the post id from the container		
 		var pid=$('.prh_ml_container').data('pid');
