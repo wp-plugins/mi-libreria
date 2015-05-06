@@ -30,7 +30,7 @@ jQuery(document).ready(function($){
 				// add link to Codex if activated in plugin settings
 				if(data.showlink=='1') {
 					
-					$('.prh_ml_container').append('<p class="prh_ml_plugin_link">¿Quieres ofrecer recomendaciones de libros en tu blog o web de WordPress? <a target="_blank" href="">Descarga el plugin aquí.</a></p>');
+					$('.prh_ml_container').append('<p class="prh_ml_plugin_link">¿Quieres ofrecer recomendaciones de libros en tu blog o web de WordPress? <a target="_blank" href="https://wordpress.org/plugins/mi-libreria/">Descarga el plugin aquí.</a></p>');
 					
 				}
 								
