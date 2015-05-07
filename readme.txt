@@ -6,7 +6,7 @@ Tested up to: 4.2.1
 License: GPLv3
 License URI: https://www.gnu.org/copyleft/gpl.html
 
-Mi librería te permite añadir automáticamente a los artículos de tu blog o página web una selección de los mejores libros sobre el tema de tu artículo y otros similares y aportar así más contenidos y utilidad a tus lectores. Una vez activado y configurado, tus usuarios verán un pequeño estante de libros recomendados justo después del contenido de cada artículo.
+Mi librería te permite añadir automáticamente a los artículos de tu blog una selección de los mejores libros sobre el tema de tu artículo y otros similares y aportar así más contenidos y utilidad a tus lectores. Una vez activado y configurado, tus usuarios verán un pequeño estante de libros recomendados justo después del contenido de cada artículo.
 
 == Description ==
 
