@@ -26,7 +26,19 @@ Las recomendaciones se verán automáticamente debajo de cada artículo, pero pu
 
 También puedes inserter las recomendaciones con el widget (en Apariencia > Widgets) o mediante el shortcode `[mi-libreria]`.
 
+== Screenshots ==
+
+1. Ajustes de artículo
+2. Ajustes globales
+
+== Support ==
+
+Si tienes alguna duda o pregunta sobre este plugin, contacta con webmaster@penguinrandomhouse.com
+
 == Changelog ==
+
+= 1.1 =
+Correcciones para cumplir con normativa del Codex
 
 = 1.0 =
 Primera versión
