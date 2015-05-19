@@ -50,7 +50,7 @@ function prh_ml_get_books_markup() {
 		// return required HTML
 		$exclusions=get_post_meta($post->ID,'_prh_ml_exclusions',true);
 		$response=array('markup'=>'');
-		foreach($books as $book) {
+		foreach((array) $books as $book) {
 
 			// check book hasn't been manually deselected
 			if(!in_array($book['isbn'],(array) $exclusions)) { 
