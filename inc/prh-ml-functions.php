@@ -85,7 +85,7 @@ function prh_ml_get_books($keywords) {
 	
 	// sanitise the data according to our needs
 	// titulo, portada, autor, isbn
-	foreach($data as $id=>$book) {
+	foreach((array) $data as $id=>$book) {
 		foreach($book as $k=>$v) {
 			
 			// sanitise if required field, otherwise discard entirely
