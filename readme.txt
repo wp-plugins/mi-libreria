@@ -28,6 +28,7 @@ También puedes inserter las recomendaciones con el widget (en Apariencia > Widg
 
 == Screenshots ==
 
+1. Visualización del plugin dentro de un artículo
 1. Ajustes de artículo
 2. Ajustes globales
 
