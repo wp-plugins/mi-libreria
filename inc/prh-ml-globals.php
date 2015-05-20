@@ -4,9 +4,6 @@
 	Mi librería
 	Penguin Random House Grupo Editorial
 	Programming by Yes We Work (yeswework.com / andrew@yeswework.com)
-	Version 1.1
-	Date 16/04/2015
-
 	prh-ml-globals.php
 	---------------------
 	global values accessed in different places through the plugin

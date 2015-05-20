@@ -4,9 +4,7 @@
 	Mi librería
 	Penguin Random House Grupo Editorial
 	Programming by Yes We Work (yeswework.com / andrew@yeswework.com)
-	Version 1.1
-	Date 16/04/2015
-
+	
 	prh-ml-metabox-ajax.php
 	---------------------
 	ajax calls returning data to metabox

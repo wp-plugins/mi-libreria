@@ -3,7 +3,7 @@
  * Plugin Name: Mi librería
  * Plugin URI: http://megustaleer.com
  * Description: Mi librería te permite añadir automáticamente a los artículos de tu blog una selección de los mejores libros sobre el tema de tu artículo y otros similares y aportar así más contenidos y utilidad a tus lectores. 
- * Version: 1.1
+ * Version: 1.2
  * Author: Penguin Random House Grupo Editorial
  * Author URI: http://www.penguinrandomhousegrupoeditorial.com/
  * License: GPLv3
@@ -13,8 +13,6 @@
 	Mi librería
 	Penguin Random House Grupo Editorial
 	Programming by Yes We Work (yeswework.com / andrew@yeswework.com)
-	Version 1.1
-	Date 16/04/2015
 
 	prh-mi-libreria.php
 	---------------------

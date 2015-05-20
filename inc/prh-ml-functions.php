@@ -1,11 +1,8 @@
 <?php
-
 /* 
 	Mi librería
 	Penguin Random House Grupo Editorial
 	Programming by Yes We Work (yeswework.com / andrew@yeswework.com)
-	Version 1.0
-	Date 30/03/2015
 
 	prh-ml-functions.php
 	---------------------

@@ -2,8 +2,6 @@
 	Mi librería
 	Penguin Random House Grupo Editorial
 	Programming by Yes We Work (yeswework.com / andrew@yeswework.com)
-	Version 1.1
-	Date 16/04/2015
 
 	prh-ml-front.css
 	---------------------
@@ -43,6 +41,8 @@
 	bottom: 0;
 	margin: 0;
 	padding: 0;
+	width: 100%;
+    height: auto;
 }
 .prh_ml_shelf .prh_ml_book .prh_ml_title {
 	font-size: 10px;
