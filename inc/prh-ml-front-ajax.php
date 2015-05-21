@@ -57,8 +57,8 @@ function prh_ml_get_books_markup() {
 				$link='';
 				if($shop['url']) $link=str_replace('[ISBN]',$book['isbn'],$shop['url']);
 
-				// replace affiliate code with user-specified one
-				if($code) $link=str_replace('[CODE]',$code,$link);
+				// replace affiliate code with user-specified one, or nothing if there isn't one
+				$link=str_replace('[CODE]',$code,$link);
 				
 				// add this book
 				$response['markup'].='<div class="prh_ml_book">';

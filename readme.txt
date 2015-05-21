@@ -38,6 +38,9 @@ Si tienes alguna duda o pregunta sobre este plugin, contacta con webmaster@pengu
 
 == Changelog ==
 
+= 1.2 =
+Pequeñas correcciones de HTML
+
 = 1.1 =
 Correcciones para cumplir con normativa del Codex
 
